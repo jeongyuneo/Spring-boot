@@ -4,3 +4,8 @@ com/jeongyun/study/springboot/web/dto/HelloResponseDto.java
  com.jeongyun.study.springboot.web.dto.HelloResponseDto
 com/jeongyun/study/springboot/web/HelloController.java
  com.jeongyun.study.springboot.web.HelloController
+com/jeongyun/study/springboot/domain/posts/PostsRepository.java
+ com.jeongyun.study.springboot.domain.posts.PostsRepository
+com/jeongyun/study/springboot/domain/posts/Posts.java
+ com.jeongyun.study.springboot.domain.posts.Posts
+ com.jeongyun.study.springboot.domain.posts.Posts$PostsBuilder
