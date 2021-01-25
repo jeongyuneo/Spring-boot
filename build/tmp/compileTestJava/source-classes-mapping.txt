@@ -4,3 +4,5 @@ com/jeongyun/study/springboot/web/HelloControllerTest.java
  com.jeongyun.study.springboot.web.HelloControllerTest
 com/jeongyun/study/springboot/web/domain/posts/PostsRepositoryTest.java
  com.jeongyun.study.springboot.web.domain.posts.PostsRepositoryTest
+com/jeongyun/study/springboot/web/PostsApiControllerTest.java
+ com.jeongyun.study.springboot.web.PostsApiControllerTest

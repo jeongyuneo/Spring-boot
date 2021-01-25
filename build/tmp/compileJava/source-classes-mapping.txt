@@ -6,6 +6,18 @@ com/jeongyun/study/springboot/web/HelloController.java
  com.jeongyun.study.springboot.web.HelloController
 com/jeongyun/study/springboot/domain/posts/PostsRepository.java
  com.jeongyun.study.springboot.domain.posts.PostsRepository
+com/jeongyun/study/springboot/web/PostsApiController.java
+ com.jeongyun.study.springboot.web.PostsApiController
+com/jeongyun/study/springboot/service/posts/PostsService.java
+ com.jeongyun.study.springboot.service.posts.PostsService
+com/jeongyun/study/springboot/web/dto/PostsUpdateRequestDto.java
+ com.jeongyun.study.springboot.web.dto.PostsUpdateRequestDto
+ com.jeongyun.study.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/jeongyun/study/springboot/web/dto/PostsSaveRequestDto.java
+ com.jeongyun.study.springboot.web.dto.PostsSaveRequestDto
+ com.jeongyun.study.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/jeongyun/study/springboot/domain/posts/Posts.java
  com.jeongyun.study.springboot.domain.posts.Posts
  com.jeongyun.study.springboot.domain.posts.Posts$PostsBuilder
+com/jeongyun/study/springboot/web/dto/PostsResponseDto.java
+ com.jeongyun.study.springboot.web.dto.PostsResponseDto
