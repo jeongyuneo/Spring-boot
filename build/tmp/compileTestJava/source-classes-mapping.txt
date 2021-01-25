@@ -1,2 +1,4 @@
+com/jeongyun/study/springboot/web/dto/HelloResponseDtoTest.java
+ com.jeongyun.study.springboot.web.dto.HelloResponseDtoTest
 com/jeongyun/study/springboot/web/HelloControllerTest.java
  com.jeongyun.study.springboot.web.HelloControllerTest
