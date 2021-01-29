@@ -1,7 +1,6 @@
 package com.jeongyun.study.springboot.web.dto;
 
 import com.jeongyun.study.springboot.domain.posts.Posts;
-import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 

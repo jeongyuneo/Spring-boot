@@ -3,14 +3,12 @@ package com.jeongyun.study.springboot.web;
 import com.jeongyun.study.springboot.config.auth.dto.SessionUser;
 import com.jeongyun.study.springboot.service.posts.PostsService;
 import com.jeongyun.study.springboot.web.dto.PostsResponseDto;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import javax.mail.Session;
 import javax.servlet.http.HttpSession;
 
 @RequiredArgsConstructor
