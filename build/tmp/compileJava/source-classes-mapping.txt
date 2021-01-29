@@ -30,8 +30,8 @@ com/jeongyun/study/springboot/domain/posts/BaseTimeEntity.java
  com.jeongyun.study.springboot.domain.posts.BaseTimeEntity
 com/jeongyun/study/springboot/web/PostsApiController.java
  com.jeongyun.study.springboot.web.PostsApiController
-com/jeongyun/study/springboot/config/auth/CustomOAuth2UserService.java
- com.jeongyun.study.springboot.config.auth.CustomOAuth2UserService
+com/jeongyun/study/springboot/web/HelloController.java
+ com.jeongyun.study.springboot.web.HelloController
 com/jeongyun/study/springboot/domain/user/Role.java
  com.jeongyun.study.springboot.domain.user.Role
 com/jeongyun/study/springboot/web/dto/PostsUpdateRequestDto.java
@@ -44,8 +44,8 @@ com/jeongyun/study/springboot/web/dto/PostsListResponseDto.java
  com.jeongyun.study.springboot.web.dto.PostsListResponseDto
 com/jeongyun/study/springboot/config/auth/dto/SessionUser.java
  com.jeongyun.study.springboot.config.auth.dto.SessionUser
+com/jeongyun/study/springboot/config/auth/CustomOAuth2UserService.java
+ com.jeongyun.study.springboot.config.auth.CustomOAuth2UserService
 com/jeongyun/study/springboot/config/auth/dto/OAuthAttributes.java
  com.jeongyun.study.springboot.config.auth.dto.OAuthAttributes
  com.jeongyun.study.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
-com/jeongyun/study/springboot/web/HelloController.java
- com.jeongyun.study.springboot.web.HelloController
