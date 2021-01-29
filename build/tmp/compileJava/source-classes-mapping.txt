@@ -1,14 +1,20 @@
 com/jeongyun/study/springboot/domain/posts/PostsRepository.java
  com.jeongyun.study.springboot.domain.posts.PostsRepository
+com/jeongyun/study/springboot/config/auth/LoginUser.java
+ com.jeongyun.study.springboot.config.auth.LoginUser
 com/jeongyun/study/springboot/service/posts/PostsService.java
  com.jeongyun.study.springboot.service.posts.PostsService
 com/jeongyun/study/springboot/domain/user/User.java
  com.jeongyun.study.springboot.domain.user.User
  com.jeongyun.study.springboot.domain.user.User$UserBuilder
+com/jeongyun/study/springboot/config/auth/LoginUserArgumentResolver.java
+ com.jeongyun.study.springboot.config.auth.LoginUserArgumentResolver
 com/jeongyun/study/springboot/web/dto/HelloResponseDto.java
  com.jeongyun.study.springboot.web.dto.HelloResponseDto
 com/jeongyun/study/springboot/config/auth/SecurityConfig.java
  com.jeongyun.study.springboot.config.auth.SecurityConfig
+com/jeongyun/study/springboot/config/WebConfig.java
+ com.jeongyun.study.springboot.config.WebConfig
 com/jeongyun/study/springboot/domain/posts/Posts.java
  com.jeongyun.study.springboot.domain.posts.Posts
  com.jeongyun.study.springboot.domain.posts.Posts$PostsBuilder
