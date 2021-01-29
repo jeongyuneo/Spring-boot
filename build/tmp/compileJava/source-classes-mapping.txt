@@ -18,8 +18,9 @@ com/jeongyun/study/springboot/config/WebConfig.java
 com/jeongyun/study/springboot/domain/posts/Posts.java
  com.jeongyun.study.springboot.domain.posts.Posts
  com.jeongyun.study.springboot.domain.posts.Posts$PostsBuilder
-com/jeongyun/study/springboot/Application.java
- com.jeongyun.study.springboot.Application
+com/jeongyun/study/springboot/config/auth/dto/OAuthAttributes.java
+ com.jeongyun.study.springboot.config.auth.dto.OAuthAttributes
+ com.jeongyun.study.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/jeongyun/study/springboot/web/IndexController.java
  com.jeongyun.study.springboot.web.IndexController
 com/jeongyun/study/springboot/domain/user/UserRepository.java
@@ -46,6 +47,7 @@ com/jeongyun/study/springboot/config/auth/dto/SessionUser.java
  com.jeongyun.study.springboot.config.auth.dto.SessionUser
 com/jeongyun/study/springboot/config/auth/CustomOAuth2UserService.java
  com.jeongyun.study.springboot.config.auth.CustomOAuth2UserService
-com/jeongyun/study/springboot/config/auth/dto/OAuthAttributes.java
- com.jeongyun.study.springboot.config.auth.dto.OAuthAttributes
- com.jeongyun.study.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/jeongyun/study/springboot/Application.java
+ com.jeongyun.study.springboot.Application
+com/jeongyun/study/springboot/config/JpaConfig.java
+ com.jeongyun.study.springboot.config.JpaConfig
